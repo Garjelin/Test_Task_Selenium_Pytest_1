@@ -1,5 +1,11 @@
 # Automated Web Testing with Selenium and pytest
 
+Done by Sergey Yakimov
+### [CV link](https://drive.google.com/file/d/1yqjuF0GRH24zgVWcdKowYINAGqCZbSB-/view?usp=drive_link)
+### [Portfolio link](https://github.com/Garjelin/PORTFOLIO_Sergey_Yakimov/)
+
+![Видеопрезентация](https://github.com/Garjelin/Test_Task_Selenium_Pytest_1/blob/main/Test_Task_Selenium_Pytest_1.gif)
+
 This project contains automated web tests for the website [https://demoqa.com/](https://demoqa.com/) using Selenium and pytest. The tests are designed to be run on both Chrome and Firefox browsers.
 
 ## Prerequisites
