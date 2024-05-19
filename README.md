@@ -112,3 +112,14 @@ Clean up the generated files using:
 
 ```sh
 make clean
+```
+
+## Test Scenario
+The following test scenario is automated:
+
+1. Open the website https://demoqa.com/
+2. Click on the "Elements" button
+3. In the expanded menu, click on "Check Box"
+4. Expand the "Home" directory
+5. Expand the "Downloads" directory
+6. Select the checkbox for "Word File.doc" and verify the selection message
