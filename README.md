@@ -8,7 +8,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Python (version 3.6 or higher)
 2. pip (Python package installer)
-3. Google Chrome and/or Mozilla Firefox
+3. Google Chrome and Mozilla Firefox
 4. ChromeDriver (for Chrome) and GeckoDriver (for Firefox)
 
 ## Installation
