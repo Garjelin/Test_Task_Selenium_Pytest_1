@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed on your system:
 
     ```sh
     git clone <repository-url>
-    cd <repository-directory>
+    cd <repository-directory>/SCENARIOS
     ```
 
 2. **Install the required Python packages:**
